@@ -13,5 +13,5 @@ Dim oShell
 Set oShell = CreateObject("WScript.Shell")
 
 
-oShell.Run "%comspec% /c mkdir HAHAHAHHAHA;touch OOOOH.txt", , TRUE
+oShell.Run "%comspec% /c mspaint", , TRUE
 X=MsgBox("See that?",0+48,"SAY GOODBYE TO YOUR FILES")
