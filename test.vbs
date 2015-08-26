@@ -1,14 +1,14 @@
-X=MsgBox("Hey Im A Box",0+16,"Famous Quote")
+X=MsgBox("Hey I'm A Box",0+16,"Famous Quote")
 WScript.sleep 4000
-X=MsgBox("Im Dying",0+16,"...")
+X=MsgBox("I'm Dying",0+16,"...")
 WScript.sleep 4000
-X=MsgBox("Y Wont You Help Meeeeeeeeeeeeeee",0+16,"You Suck")
+X=MsgBox("Why Won't You Help Meeeeeeeeeeeeeee",0+16,"You Suck")
 WScript.sleep 4000
-X=MsgBox("I'll Haunt You",0+16,"Im Dead")
+X=MsgBox("I'll Haunt You",0+16,"I'm Dead")
 WScript.sleep 7000
-X=MsgBox("Look Behind You",0+16,"your DEAD")
+X=MsgBox("Look Behind You",0+16,"You're DEAD")
 WScript.sleep 10000
-X=MsgBox("Im In Your Computer Deleting Files",0+16,"Im Reseting Your Computer")
+X=MsgBox("I'm In Your Computer Deleting Your Files",0+16,"I'm Reseting Your Computer")
 Dim oShell 
 Set oShell = CreateObject("WScript.Shell")
 
